@@ -1,3 +1,3 @@
 # Spotify Replica
-Using HTML & CSS
+Using HTML & CSS.
 
